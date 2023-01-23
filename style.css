@@ -1,8 +1,8 @@
   body{
-    background: #352f5b;
+    background: red;
   }
   .container{
-    max-width: 400px;
+    max-width: 500px;
 
   }
   input[type=text],
